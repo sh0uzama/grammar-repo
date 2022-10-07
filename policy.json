@@ -71,7 +71,8 @@
         "Utilizzare un MAC con l'ormai obsoleto OSX-{{:rnd(10,999)}}",
         "Indire e partecipare attivamente almeno a {{:rnd(40, 80)}} meeting-che-potevano-essere-una-email al {{timemeasure}}",
         "Indossare il dispositivo aut.min.rich. di protezione e filtro per la respirazione polmonare oro-nasale ad introduzione di aria atmosferica nel corpo",
-        "Esternare la propria costernazione con bestemmioni ad alta voce"
+        "Esternare la propria costernazione con bestemmioni ad alta voce",
+        "Tenere le finestre degli uffici aperte"
     ],
     "side": [ "via Nizza",  "piazza Galimberti", "per altezza diviso due", "corso Valdobbiadene", "parcheggio abusivo", "piazza Quattro Cantoni", "casa di {{role}}" ],
     "timemeasure": [ "giorno", "mese", "secondo", "minuto", "millisecondo", "lustro", "secolo", "millennio" ],
@@ -139,7 +140,8 @@
         "Ciro Bunniti detto 'Er Monnezza'",
         "Carcarlo Pravettoni",
         "Musumeci",
-        "Giorgia Meloni"
+        "Giorgia Meloni",
+        "uno dei figli del sultano del Brunei"
     ],
     "landmark": [
         "il Monumento ai Caduti nel Deploy dell'anno {{year}}",
@@ -183,7 +185,7 @@
         "I sudditi ubicati subito dietro {{landmark}}",
         "Gli iscritti all'ACI almeno dall'anno {{year}}",
         "Luigi {{:oneof('XIII', 'XIV', 'XV')}}",
-        "I Cavalieri della Tavola Rotonda {{:oneof(null, '(tranne Lancillotto il fedifrago)')}}",
+        "I Cavalieri della Tavola {{:oneof('Rotonda', 'Rotonda', 'Trapezoidale', 'Icosagonale')}} {{:oneof(null, '(tranne Lancillotto il fedifrago)')}}",
         "I nati sotto il segno de{{zodiacsign}}",
         "I sette nani",
         "I dipendenti di sesso {{sex}}",
@@ -198,7 +200,8 @@
         "I programmatori in pensione",
         "Gli abitanti del Molise",
         "I tesserati ARCI",
-        "I credenti e praticanti di fede {{religion}}"
+        "I credenti e praticanti di fede {{religion}}",
+        "MAVCO PISELLONIO"
     ],
     "religion": [
         "Pastafariana",
