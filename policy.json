@@ -98,21 +98,25 @@
     ],
     "when": [
         null,
-        ", sempre, anche di notte",
+        ", sempre, ma soprattutto di notte",
         ", ogni {{:oneof('primo', 'secondo', 'terzo')}} {{weekday}} del mese",
         ", dalle {{:oneof('8','9','10','11')}} alle {{:oneof('14','15','16','17')}}",
         ", solo il {{weekday}}",
         ", solo nei giorni che finiscono per 'ì'",
-        ", dal sorgere del{{:oneof(' sole', 'la luna')}} fino alle prossime elezioni politiche",
+        ", dal sorgere del{{:oneof(' sole', 'la luna')}} fino al tramonto del{{:oneof(' sole', 'la luna', 'la ragione')}}",
+        ", da{{holiday}} fino a {{holiday}}",
         ", dal canto del gallo fino al crepuscolo {{:oneof(null, 'lunare')}}",
         ", {{:oneof('prima della', 'dopo la')}} pausa caffè",
         ", {{:oneof('prima di', 'dopo')}} pranzo",
-        ", {{:oneof('prima di', 'dopo')}} cena"
+        ", {{:oneof('prima di', 'dopo')}} cena",
+        ", in occasione della visita di {{role}}",
+        ", in seguito all'ostensione del ritratto di {{role}} in sala mensa"
     ],
     "weekday": [
         "lunedì", "martedì", "mercoledì", "giovedì", "venerdì", "sabato"
     ],
     "exception": [
+        null,
         null,
         " (tranne il {{weekday}})",
         " (solo se prima concordato con {{role}})",
@@ -218,6 +222,7 @@
         "lla Sagra della Porchetta di {{city}}", 
         "l compleanno di {{role}}", "lla fine del mondo",
         " Torino Comics", "l Carnevale di Ivrea",
-        "lla festa patronale di {{city}}"
+        "lla festa patronale di {{city}}",
+        "lle prossime elezioni politiche"
     ]
 }
