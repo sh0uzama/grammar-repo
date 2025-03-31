@@ -52,7 +52,8 @@
         "L'Imperatore ",
         "L'Ammiraglio ",
         "Il Condottiero Supremo ",
-        "Il Presidente del Consiglio "
+        "Il Presidente del Consiglio ",
+        "Il capo bracconiere "
     ],
     "ofwhat": [
         null,
@@ -291,7 +292,8 @@
         "Cannibalista",
         "Berlusconiana",
         "C-Sharpista",
-        "Javascritta"
+        "Javascritta",
+        "Scientologista"
     ],
     "sex": [
         "maschile",
